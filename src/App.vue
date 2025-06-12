@@ -35,7 +35,7 @@ const bioText = 'Ambitious Math/CS student at BSU, Web Development Enthusiast, E
 
 <template>
 
-  <HeadBar :name="name" :position="position" photoUrl="/myphoto.jpg" />
+  <HeadBar :name="name" :position="position" photoUrl="public/myphoto.jpg" />
   <Greeting :socialLinks="socialLinks" :position="position" :description="description" :technologies="technologies" />
   <WhatIDo />
   <Resume :bioText="bioText" />
