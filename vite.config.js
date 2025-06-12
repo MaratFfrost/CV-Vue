@@ -4,5 +4,5 @@ import vue from '@vitejs/plugin-vue'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: "https://maratffrost.github.io/CV-Vue/cv"
+  base: "https://maratffrost.github.io/CV-Vue"
 })
