@@ -274,7 +274,7 @@ export default {
 
   .menu-button {
     display: block;
-    margin-right: 5%;
+    margin-right: 6%;
     position: relative;
     z-index: 1001;
   }

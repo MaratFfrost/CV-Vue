@@ -98,7 +98,7 @@ export default {
       ],
       experience: [
         {
-          period: "2023 - Present",
+          period: "2025 February - Present",
           position: "Full Stack Developer",
           company: "MVlab",
           link: "http://www.mvlabby.iron.hostflyby.net/",

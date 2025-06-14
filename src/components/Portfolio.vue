@@ -108,6 +108,8 @@ export default {
 }
 
 .portfolio-item {
+  cursor: pointer;
+  margin: 10px;
   background-color: #252525;
   height: 350px;
   background-size: cover;
